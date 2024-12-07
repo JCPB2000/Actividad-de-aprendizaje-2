@@ -7,10 +7,12 @@
 - Diseño responsivo con estilos personalizados en CSS.
 - Código implementado exclusivamente con arrow functions.
 
+![Descripción de la imagen](https://ibb.co/ssHkXD3)
 
 **Estructura del proyecto**
 
 ###### actividad-aprendizaje-2
+```
 │
 ├── index.html             # Página principal con datos del estudiante
 ├── funciones.html         # Funciones lógicas (comparar números, meses, listas)
@@ -27,7 +29,7 @@
 │   └── resultados.js      # Visualización de datos
 │
 └── README.md              # Documentación del proyecto
-
+```
 
 ##Implementación
 
