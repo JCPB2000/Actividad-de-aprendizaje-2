@@ -7,7 +7,6 @@
 - Diseño responsivo con estilos personalizados en CSS.
 - Código implementado exclusivamente con arrow functions.
 
-![Descripción de la imagen](https://raw.githubusercontent.com/JCPB2000/Actividad-de-aprendizaje-2/d691886e17a11eb95908cb5f497e0601ee8ddf15/1.png)
 
 **Estructura del proyecto**
 
@@ -47,6 +46,7 @@
 -Muestra los usuarios registrados en formato tabular.
 
 
+![Descripción de la imagen](https://raw.githubusercontent.com/JCPB2000/Actividad-de-aprendizaje-2/d691886e17a11eb95908cb5f497e0601ee8ddf15/1.png)
 
 ###Código Destacado
 
