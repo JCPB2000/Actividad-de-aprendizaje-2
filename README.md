@@ -46,12 +46,14 @@
 -Muestra los usuarios registrados en formato tabular.
 
 
-![Comparación de Números](https://raw.githubusercontent.com/JCPB2000/Actividad-de-aprendizaje-2/d691886e17a11eb95908cb5f497e0601ee8ddf15/1.png)
+
 
 ###Código Destacado
 
 ####Javascript　
 ##### Comparación de Números
+
+![Comparación de Números](https://raw.githubusercontent.com/JCPB2000/Actividad-de-aprendizaje-2/d691886e17a11eb95908cb5f497e0601ee8ddf15/1.png)
 
 ```javascript
 document.getElementById('btn-comparar').addEventListener('click', () => {
@@ -62,12 +64,12 @@ document.getElementById('btn-comparar').addEventListener('click', () => {
 });
 ```
 
-![Formulario de registro](https://github.com/JCPB2000/Actividad-de-aprendizaje-2/blob/main/2.jpg?raw=true)
-
-
 
 ####HTML
 ##### Registro de usuarios
+
+![Formulario de registro](https://github.com/JCPB2000/Actividad-de-aprendizaje-2/blob/main/2.jpg?raw=true)
+
 ```html
 <form id="formulario">
     <input type="text" id="id-usuario" placeholder="ID" required>
