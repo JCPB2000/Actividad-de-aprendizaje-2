@@ -33,16 +33,16 @@
 ##Implementación
 
 ###### Funcionalidades
-1- Inicio
+1. Inicio
 -Muestra los datos del estudiante en un diseño organizado.
-2- Funciones lógicas
+2. Funciones lógicas
 -Comparación de números con condicionales if.
 -Identificación de meses con switch.
 -Gestión de una lista dinámica de nombres usando arrays.
-3- 	Registro de usuarios
+3. 	Registro de usuarios
 -Formulario validado para capturar datos del usuario.
 -Campos: ID, Cédula, Nombres, Fecha de nacimiento, Ciudad.
-4- Resultados
+4. Resultados
 -Muestra los usuarios registrados en formato tabular.
 
 
