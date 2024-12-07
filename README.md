@@ -79,7 +79,7 @@ document.getElementById('btn-comparar').addEventListener('click', () => {
 
 ```
 ####CSS
-##### Registro de usuarios
+##### Estilos
 ```css
 /* Estilo general del cuerpo de la página */
 body {
