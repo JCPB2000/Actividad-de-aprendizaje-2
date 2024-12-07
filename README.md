@@ -62,6 +62,8 @@ document.getElementById('btn-comparar').addEventListener('click', () => {
 });
 ```
 
+
+
 ####HTML
 ##### Registro de usuarios
 ```html
