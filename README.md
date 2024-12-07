@@ -46,7 +46,7 @@
 -Muestra los usuarios registrados en formato tabular.
 
 
-![Descripción de la imagen](https://raw.githubusercontent.com/JCPB2000/Actividad-de-aprendizaje-2/d691886e17a11eb95908cb5f497e0601ee8ddf15/1.png)
+![Comparación de Números](https://raw.githubusercontent.com/JCPB2000/Actividad-de-aprendizaje-2/d691886e17a11eb95908cb5f497e0601ee8ddf15/1.png)
 
 ###Código Destacado
 
@@ -61,6 +61,8 @@ document.getElementById('btn-comparar').addEventListener('click', () => {
     document.getElementById('resultado').textContent = resultado;
 });
 ```
+
+![Formulario de registro](https://github.com/JCPB2000/Actividad-de-aprendizaje-2/blob/main/2.jpg?raw=true)
 
 
 
